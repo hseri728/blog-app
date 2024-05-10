@@ -1,11 +1,11 @@
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
-/Users/serizawahideyoshi/.rbenv/versions/2.7.7/bin/ruby -I /Users/serizawahideyoshi/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20240409-47783-1v5woxk.rb extconf.rb
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
+/Users/serizawahideyoshi/.rbenv/versions/2.7.7/bin/ruby -I /Users/serizawahideyoshi/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20240405-8181-uu57wn.rb extconf.rb
 creating Makefile
 
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" clean
 
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
 make "DESTDIR="
 compiling ./libsass/src/ast.cpp
 compiling ./libsass/src/ast2c.cpp
@@ -86,6 +86,6 @@ compiling ./libsass/src/values.cpp
 linking shared-object sassc/libsass.bundle
 ld: warning: -multiply_defined is obsolete
 
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20240409-47783-1oz209w/sassc
+/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20240405-8181-5np0wa/sassc

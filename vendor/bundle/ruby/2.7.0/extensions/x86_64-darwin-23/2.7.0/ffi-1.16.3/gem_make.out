@@ -1,5 +1,5 @@
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c
-/Users/serizawahideyoshi/.rbenv/versions/2.7.7/bin/ruby -I /Users/serizawahideyoshi/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20240409-47783-v6snhc.rb extconf.rb
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c
+/Users/serizawahideyoshi/.rbenv/versions/2.7.7/bin/ruby -I /Users/serizawahideyoshi/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20240405-8181-c4ylbd.rb extconf.rb
 checking for ffi_prep_closure_loc() in -lffi... yes
 checking for ffi_prep_cif_var()... yes
 checking for ffi_raw_call()... yes
@@ -9,10 +9,10 @@ checking for whether -pthread is accepted as LDFLAGS... yes
 creating extconf.h
 creating Makefile
 
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c
 make "DESTDIR=" clean
 
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c
 make "DESTDIR="
 compiling AbstractMemory.c
 compiling ArrayType.c
@@ -41,6 +41,6 @@ linking shared-object ffi_c.bundle
 ld: warning: -multiply_defined is obsolete
 ld: warning: ignoring duplicate libraries: '-lffi', '-lruby.2.7'
 
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/ffi-1.16.3/ext/ffi_c
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20240409-47783-k15u3e
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20240405-8181-d0ch07
