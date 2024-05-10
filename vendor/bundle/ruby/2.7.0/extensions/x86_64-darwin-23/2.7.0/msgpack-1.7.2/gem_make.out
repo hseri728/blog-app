@@ -1,5 +1,5 @@
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/msgpack-1.7.2/ext/msgpack
-/Users/serizawahideyoshi/.rbenv/versions/2.7.7/bin/ruby -I /Users/serizawahideyoshi/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20240409-47783-1t5fiub.rb extconf.rb
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/msgpack-1.7.2/ext/msgpack
+/Users/serizawahideyoshi/.rbenv/versions/2.7.7/bin/ruby -I /Users/serizawahideyoshi/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20240405-8181-1ayfea5.rb extconf.rb
 checking for rb_enc_interned_str() in ruby.h... no
 checking for rb_hash_new_capa() in ruby.h... no
 checking for rb_proc_call_with_block() in ruby.h... yes
@@ -13,10 +13,10 @@ checking for whether -DHASH_ASET_DEDUPE=1 is accepted as CFLAGS... yes
 checking for whether -DSTR_UMINUS_DEDUPE_FROZEN=0 is accepted as CFLAGS... yes
 creating Makefile
 
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/msgpack-1.7.2/ext/msgpack
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/msgpack-1.7.2/ext/msgpack
 make "DESTDIR=" clean
 
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/msgpack-1.7.2/ext/msgpack
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/msgpack-1.7.2/ext/msgpack
 make "DESTDIR="
 compiling buffer.c
 compiling buffer_class.c
@@ -34,6 +34,6 @@ linking shared-object msgpack/msgpack.bundle
 ld: warning: -multiply_defined is obsolete
 ld: warning: ignoring duplicate libraries: '-lruby.2.7'
 
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/msgpack-1.7.2/ext/msgpack
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/msgpack-1.7.2/ext/msgpack
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 msgpack.bundle ./.gem.20240409-47783-1t8acby/msgpack
+/usr/bin/install -c -m 0755 msgpack.bundle ./.gem.20240405-8181-b4n3pr/msgpack

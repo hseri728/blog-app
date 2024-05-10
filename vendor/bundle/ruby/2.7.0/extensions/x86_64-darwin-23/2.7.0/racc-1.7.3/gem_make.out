@@ -1,17 +1,17 @@
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
-/Users/serizawahideyoshi/.rbenv/versions/2.7.7/bin/ruby -I /Users/serizawahideyoshi/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20240409-47783-30hxj5.rb extconf.rb
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/serizawahideyoshi/.rbenv/versions/2.7.7/bin/ruby -I /Users/serizawahideyoshi/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20240405-8181-1eq4z4b.rb extconf.rb
 creating Makefile
 
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
 make "DESTDIR=" clean
 
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
 make "DESTDIR="
 compiling cparse.c
 linking shared-object racc/cparse.bundle
 ld: warning: -multiply_defined is obsolete
 ld: warning: ignoring duplicate libraries: '-lruby.2.7'
 
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240409-47783-5h6f31/racc
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240405-8181-qbudci/racc

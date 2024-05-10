@@ -1,5 +1,5 @@
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/nio4r-2.7.1/ext/nio4r
-/Users/serizawahideyoshi/.rbenv/versions/2.7.7/bin/ruby -I /Users/serizawahideyoshi/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20240409-47783-o8b69y.rb extconf.rb
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/nio4r-2.7.1/ext/nio4r
+/Users/serizawahideyoshi/.rbenv/versions/2.7.7/bin/ruby -I /Users/serizawahideyoshi/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20240405-8181-1dh9su6.rb extconf.rb
 checking for unistd.h... yes
 checking for rb_io_descriptor()... no
 checking for linux/aio_abi.h... no
@@ -13,10 +13,10 @@ checking for port_event_t in port.h... no
 checking for sys/resource.h... yes
 creating Makefile
 
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/nio4r-2.7.1/ext/nio4r
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/nio4r-2.7.1/ext/nio4r
 make "DESTDIR=" clean
 
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/nio4r-2.7.1/ext/nio4r
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/nio4r-2.7.1/ext/nio4r
 make "DESTDIR="
 compiling bytebuffer.c
 compiling monitor.c
@@ -248,6 +248,6 @@ linking shared-object nio4r_ext.bundle
 ld: warning: -multiply_defined is obsolete
 ld: warning: ignoring duplicate libraries: '-lruby.2.7'
 
-current directory: /Users/serizawahideyoshi/blogapp/vendor/bundle/ruby/2.7.0/gems/nio4r-2.7.1/ext/nio4r
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/nio4r-2.7.1/ext/nio4r
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20240409-47783-1olbtgh
+/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20240405-8181-1fwdad3
