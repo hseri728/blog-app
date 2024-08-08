@@ -1,0 +1,18 @@
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/hamlit-3.0.3/ext/hamlit
+/Users/serizawahideyoshi/.rbenv/versions/2.7.7/bin/ruby -I /Users/serizawahideyoshi/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20240807-81770-3gq7n3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/hamlit-3.0.3/ext/hamlit
+make "DESTDIR=" clean
+
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/hamlit-3.0.3/ext/hamlit
+make "DESTDIR="
+compiling hamlit.c
+compiling hescape.c
+linking shared-object hamlit/hamlit.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.2.7'
+
+current directory: /Users/serizawahideyoshi/blog-app/vendor/bundle/ruby/2.7.0/gems/hamlit-3.0.3/ext/hamlit
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 hamlit.bundle ./.gem.20240807-81770-kqp2id/hamlit
